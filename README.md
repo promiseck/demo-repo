@@ -1,3 +1,3 @@
 # Demo
 
-some description for readme
+the description for readme
